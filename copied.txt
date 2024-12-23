@@ -1,0 +1,9 @@
+import java.util.Scanner Largest
+Scanner input = new Scanner(System.in);
+
+System.out.println("Enter first score");
+int largest = input.nextInt();
+
+System.out.println("Enter score 2");
+int userInput = input.nextInt();
+if(userInput > largest) largest = userInput;

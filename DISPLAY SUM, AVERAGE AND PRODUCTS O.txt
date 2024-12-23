@@ -1,0 +1,32 @@
+DISPLAY SUM, AVERAGE AND PRODUCTS OF NUMBERS
+		STAGE ONE
+1) Write a program
+2) Collect three integer from the user
+3) Display the sum, average, product, smallest and largest of the numbers.
+
+		STAGE TWO
+1) Prompt the use to enter a number
+2) Collect the number
+3) store the number as "Number 1"
+4) prompt the user to enter another number 
+5) Collect the number
+6) Store the number as "Number as "num2"
+7) prompt the user to enter another number
+8) Collect the number
+9) Store the number as "Number as "num3"
+10) sum num1,num2 and num3
+11) store new value as "sum"
+12) Display sum
+13) Divide sum by 3
+14) Store new value as average
+15) Display average 
+16) Multiply num1, num2 and num3 together
+17) Store new value as product
+18) Display product
+19) Identify the smallest integer among num1, num2 and num3
+20) Store identified number as "Smallest Number"
+21) Display smallest Number
+22) Identify largest number among num1, num2 and num3
+23) store identify number as "largest number"
+24) Display largest number
+

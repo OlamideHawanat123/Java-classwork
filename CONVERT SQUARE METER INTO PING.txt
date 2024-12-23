@@ -1,0 +1,15 @@
+	CONVERT SQUARE METER INTO PING
+		STAGE ONE
+1) Write a program
+2) Read a number in square meter
+3) Convert to ping
+4) Display result
+
+		STAGE TWO
+1) Prompt the user to enter a number in square meter
+2) Collect the number
+3) Store the number as "number in square meter"
+4) Convert "number in square meter" to ping by multiplying by 0.3025
+5) Store the converted number as "Ping"
+6) Display ping
+

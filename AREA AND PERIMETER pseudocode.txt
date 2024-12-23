@@ -1,0 +1,17 @@
+		AREA AND PERIMETER
+		STAGE ONE
+1) Write a program
+2) input width and height
+3) calculate area by multiplying width and height
+4) Store calculated value as "Area"
+5) Calculate perimeter by multiplying 2 and sum of height and width
+6) Store calculated value as "perimeter"
+		STAGE TWO
+1) Enter width as 5.3
+2) Enter height as 8.6
+3) Multiply width by height
+4) Store multiplied value as "Area"
+5) Multiply 2 by the sum of width and height
+6) Store result as "perimeter"
+7) Display Area 
+8) Display perimeter

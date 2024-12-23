@@ -1,0 +1,15 @@
+			DIVISIBLE
+			STAGE ONE
+1) Write a program
+2) Read a number
+3) Determine if the number is divisible by three or not
+4) Display if divisible by 3 or not
+
+			STAGE TWO
+1) Prompt the user to enter a number 
+2) Collect the number
+3) Store the number as number1
+4) Check if number1 is divisible by 3 without remainder
+5) Display "divisible by 3" if 3 can divide number1 without remainder
+6) Check if number1 is not divisible by 3 without remainder
+7) Display "divisible by 3" if 3 cannot divide number1 without remainder

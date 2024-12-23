@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class TemiLargest{
+	public static void main(String[] args){
+
+Scanner input = new scanner(System.in);
+
+System.out.print("Enter a number");
+int firstNumber = input.nextInt();
+
+System.out.print("Enter second number");
+int secondNumber = input.nextInt();
+
+System.out.print("Enter third number");
+int thirdNumber = input.nextInt();
+
+System.out.print("Enter fourth number");
+int fourthNumber = inputnextInt();
+
+System.out.print("Enter fifth number");
+int fifthNumber = input.nextInt(); 
+
+
+
+

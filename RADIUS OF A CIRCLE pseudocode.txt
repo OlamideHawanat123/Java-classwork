@@ -1,0 +1,18 @@
+		RADIUS OF A CIRCLE
+		STAGE ONE
+1) Write a program
+2) Input radius as 6.5
+3) Input pie as 3.14159
+4) Calculate perimeter 
+5) Calculate area  
+6) Display perimeter
+7) Display area
+		STAGE TWO
+1)Input radius as 6.5
+2) Input pie as 3.14159
+3) Multiply 2 by radius and pie
+4) Store calculated value as Perimeter
+5) Multiply radius by radius and pie
+6) Store calculated value as Area
+7) Display Perimeter
+8) Display Meter

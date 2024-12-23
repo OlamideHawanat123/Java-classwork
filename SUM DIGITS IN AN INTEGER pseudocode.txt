@@ -1,0 +1,18 @@
+SUM DIGITS IN AN INTEGER
+		STAGE ONE
+1) Read a three-digits integer
+2) Sum each digits in the integer
+3) Display result
+		STAGE TWO
+1)Prompt the user to enter a three-digits number between 0 and 1000
+2) Collect the number
+3) Store the number as "Three digits"
+4) use three digits % 10 to remove the last number in three digits
+5) Store the last digit as "last digit"
+6) Store the remaining number as "Two digits"
+7) Use two digits % 10 to remove the second digit in two digits
+8) Store the second digit as "second digit"
+9) use two digits / 10 to remove the first digit in two digits
+10) Calculate sum using (Last digit + Second digit + First digit)
+11) Store result as "sum"
+12) Display sum

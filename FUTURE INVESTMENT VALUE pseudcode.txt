@@ -1,0 +1,20 @@
+		FUTURE INVESTMENT VALUE
+		STAGE ONE
+1) Write a program
+2) Read a number in investment amount
+3) Read another number as annual interest rate
+4) Read another number as "number of years"
+5) calculate future investment value 
+6) Display future investment value
+
+		STAGE TWO
+1) Prompt the user to enter a number
+2) Collect the number
+3) Store as investment amount
+4) Prompt the user to enter a number
+5) Collect the number
+6) Store as annual interest rate
+7) Prompt the user to enter a number
+8) Collect the number
+9) Store as number of years
+10) 

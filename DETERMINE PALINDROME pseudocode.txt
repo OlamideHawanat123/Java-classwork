@@ -1,0 +1,21 @@
+DETERMINE PALINDROME
+STAGE ONE
+1) READ A THREE-DIGITS NUMBER
+2) CHECK IF IT'S A PLINDROME OR NOT
+3) DISPLAY IF IT'S A PAALINDROME OR NOT
+
+STAGE TWO
+1) Prompt the user to enter a three-digits number
+2) Collect the number
+3) Store the number as three digits
+4) use three digits % 10 to extract the last number
+5) Store the number as last number
+6) Collect the number
+7) Store the number as two digits
+8) use two digits % 10 to extract the second number
+9) Store it as second number
+10 use two digits / 10 to extract the first number
+11) Store it as first number
+12) using if statement, state if (last number = first number
+13) Display three digit is palindrome
+14) Else, display three digits is not palindrome
