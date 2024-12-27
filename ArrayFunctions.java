@@ -7,7 +7,7 @@ public class ArrayFunctions{
 	int ola = input.largest(largestResult);
 	System.out.print(ola);
 
-	int [] reverseResult = {34, 67, 78, 45, 3};
+	int [] reverseResult = {34, 67, 78, 45, 3};  
 	int bola = input.reverse(reverseResult);
 	System.out.print(bola);
 
