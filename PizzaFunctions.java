@@ -95,20 +95,11 @@ public class PizzaFunctions{
 	System.out.println("The total price is: " + totalResult);
 	}
 
+	else{
+	System.out.print("Wrong input entered, please enter the correct input if you wish to continue");
+	}
 
 	
 
-
-
-	
-	
-
-		
-	
-
-	
-	
-	
-
-}
+	}
 }
