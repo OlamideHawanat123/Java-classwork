@@ -1,8 +1,0 @@
-initial - velocity = int(input('enter initial velocity: ')
-final - velocity = int(input('enter final velocity: ')
-time = int('enter time in minutes: ')
-
-denominator = initial - velocity - final - velocity 
-
-acceleration = denominator / time
-print (acceleration)

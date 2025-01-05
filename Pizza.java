@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 public class Pizza{
-	public static ArrayList<String> types(){
+	public ArrayList<String> types(){
 
 	ArrayList<String> pizzaTypes = new ArrayList<>();
  
