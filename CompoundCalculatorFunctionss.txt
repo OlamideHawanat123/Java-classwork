@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CompoundCalculatorFunctions{
+public class CompoundCalculatorFunctionss  {
 	public static void main(String...args){
 
 	CompoundCalculator input = new CompoundCalculator();
@@ -21,9 +21,7 @@ public class CompoundCalculatorFunctions{
 	System.out.println("What's the interest rate?:");
 	(double)int interest = scanner.nextInt();
 
-	double compoundInterest = interest;
-
-
+	double compoundInterest = 
 
  
 		

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CheckOutSemicolon{
+public class CheckOut{
 public static void main(String... args){
 Scanner scanner = new Scanner(System.in);
 
@@ -74,14 +74,15 @@ System.out.print("\n==========================================================")
 System.out.print("\nThis Is Not An RECEIPT KINDLY Pay  " + bill);
 System.out.print("\n" + "=====================================================");
 
-int customerInput = 0;
+while(customerInput < billTotal){
+System.out.print("Invalid entry, your payment is not up to your bill: ");
+customerInput = input.nextDouble();
+}
 
-do{
-System.out.println("\n" + "How much did the customer give to you? ");
-customerInput = scanner.nextInt();
-}while(customerInput < Integer.parseInt(bill));
-
-
+while(customerInput <= 0){
+System.out.print("Invalid entry, enter the correct payment: ");
+customerInput = input.nextDouble();
+}
 
 
 
@@ -109,7 +110,7 @@ System.out.print("\n" + "\t\t\tBalance : " + balance);
 System.out.print("\n================================================================================");
 System.out.print("\nThanks You For Your Patronage");
 System.out.print("\n================================================================================");
-}while(customerInput < bill);
+
 
 }
 

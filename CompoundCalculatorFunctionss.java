@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CompoundCalculatorFunctions{
+public class CompoundCalculatorFunctionss  {
 	public static void main(String...args){
 
 	CompoundCalculator input = new CompoundCalculator();
@@ -18,12 +18,31 @@ public class CompoundCalculatorFunctions{
 	int year = scanner.nextInt();
 	int timeInYear = input.timeInYear(year);
 
-	System.out.println("What's the interest rate?:");
-	(double)int interest = scanner.nextInt();
+	System.out.print("What's the interest rate?:");
+	int interest = scanner.nextInt();
 
-	double compoundInterest = interest;
+	double interestRate = interest/ 100;
 
+	System.out.print
+("""
+What is the time per year that interest will be compounded?
 
+1) Daily
+2) Weekly
+3) Monthly
+""");
+int timePerYear = scanner.nextInt();
+
+if(timePerYear == 1){
+int compoundInterest = initial(1 + interestRate / 365)(365 * timeInYear);
+System.out.print(compoundInterest);
+}		
+	
+
+	
+	
+		
+	
 
  
 		

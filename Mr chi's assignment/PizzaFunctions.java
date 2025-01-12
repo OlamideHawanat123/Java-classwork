@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Scanner;
+import java.util.ArrayList;
 public class PizzaFunctions{
 	public static void main(String...args){
 
@@ -6,18 +7,28 @@ public class PizzaFunctions{
 	Scanner scanner = new Scanner(System.in);
 
 	ArrayList<String> pizzaTypes = input.types();
-	System.out.println("Enter your preferred pizza type:");
+	System.out.println("Enter your preferred pizza type from 1-4:");
+	
+	int types;
 
+	while(true) {
 	System.out.println(pizzaTypes);
-	int types = scanner.nextInt();
+	types = scanner.nextInt();
+	if( types <= 0 && types >= 5) {
+	System.out.println("Error");
+		}
+	
+	
 
-	for(int count = 0; count < pizzaTypes.size(); count++);
 	if(types == 1){
+	
+
 		int sliceResult = input.slice(4);
 		int priceResult = input.price(2500);
 
 	System.out.println("How many guests do you intend to serve?:");
 	int guest = scanner.nextInt();
+
 
 	int boxes = input.boxes(guest, sliceResult);
 	if(guest % sliceResult != 0){
@@ -34,11 +45,13 @@ public class PizzaFunctions{
 	}
 
 	else if(types == 2){
+
 		int sliceResult = input.slice(6);
 		int priceResult = input.price(2900);
 
 	System.out.println("How many guests do you intend to serve?:");
 	int guest = scanner.nextInt();
+
 
 	int boxes = input.boxes(guest, sliceResult);
 	if(guest % sliceResult != 0){
@@ -61,6 +74,7 @@ public class PizzaFunctions{
 	System.out.println("How many guests do you intend to serve?:");
 	int guest = scanner.nextInt();
 
+
 	int boxes = input.boxes(guest, sliceResult);
 	if(guest % sliceResult != 0){
 	boxes += 1;
@@ -75,6 +89,7 @@ public class PizzaFunctions{
 	}
 
 	else if(types == 4){
+
 		int sliceResult = input.slice(12);
 		int priceResult = input.price(5200);
 
@@ -94,11 +109,9 @@ public class PizzaFunctions{
 	System.out.println("The total price is: " + totalResult);
 	}
 
-	else{
-	System.out.print("Wrong input entered, please enter the correct input if you wish to continue");
-	}
-
+	
 	
 
 	}
+}
 }

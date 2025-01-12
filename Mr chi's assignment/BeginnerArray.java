@@ -81,17 +81,7 @@ public class BeginnerArray{
 	return even;
 	}
 
-	public int evenNumbers(int [] array){
-	for(int count = 0; count < array.length; ++count){
-
-	if(array[count] % 2 == 0);
-	
-	}
-	}
-
-	return array[count];
-	}
-	
+		
 
 	 
 

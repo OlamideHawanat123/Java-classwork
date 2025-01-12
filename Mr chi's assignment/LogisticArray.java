@@ -16,7 +16,7 @@ basePay = (successfulDeliveries * amountPerParcel[2] + basePay);
 
 else if(numberOne >= 50){
 basePay = (successfulDeliveries * amountPerParcel[1] + basePay);
-} 
+}
 
 else{
 basePay = (successfulDeliveries * amountPerParcel[0] + basePay);

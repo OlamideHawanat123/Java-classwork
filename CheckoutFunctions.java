@@ -4,7 +4,7 @@ public class CheckoutFunctions{
 	Scanner scanner = new Scanner(System.in);
 	Checkout input = new Checkout();
 
-	System.out.println("What is your the customer's name:");
+	System.out.println("What is the customer's name:");
 	String name = scanner.nextLine();
 
 	System.out.println("What did the user buy:");

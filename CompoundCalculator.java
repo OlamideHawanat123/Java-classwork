@@ -18,6 +18,10 @@ return number;
 }
 
 
+public int CompoundInterest(double principal, int number, double interest, int timePerYear,int timePperYear, int timeInYears){
+return principal(1 + interest/ timePerYear)(timePperYear * timeInYears);
+}
+
 
 
 

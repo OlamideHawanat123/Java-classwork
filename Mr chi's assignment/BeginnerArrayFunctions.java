@@ -26,9 +26,7 @@ public class BeginnerArrayFunctions{
 	int numberOfEven = input.noOfEvenNumbers(numbers);
 	System.out.println("The number of even numbers is: " + numberOfEven);
 
-	int evenIntegers = input.evenNumbers(numbers);
-	System.out.println(evenIntegers);
-
+	
 
 
 }
