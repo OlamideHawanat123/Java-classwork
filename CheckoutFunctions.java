@@ -14,11 +14,12 @@ public class CheckoutFunctions{
 	int pieces = scanner.nextInt();
 
 	System.out.println("How much per unit:");
-	int price = scanner.nextInt();
+	double price = scanner.nextInt();
 
 	System.out.println("Add more items?(Enter y/n):");
-	String moreProduct = scanner.next ();
+	char moreProduct = scanner.next ();
 
+	
 	input.name();
 
 	
