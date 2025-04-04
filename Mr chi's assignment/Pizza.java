@@ -11,7 +11,7 @@ public class Pizza{
 	pizzaTypes.add("Odogwu");
 
 	return pizzaTypes;
-	}
+	} 
 
 	public int slice(int number){
 	return number;

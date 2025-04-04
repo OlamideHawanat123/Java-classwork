@@ -11,7 +11,7 @@ public class TaskSix1{
 	System.out.print();
 	int count = 8;
 
-	for(int number 1 = 1;number <= 5;number++){
+	for(int number = 1;number <= 5;number++){
 	answer2 *=counter;
 	System.out.println();
 

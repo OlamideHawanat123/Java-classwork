@@ -1,0 +1,7 @@
+1) Write a function that takes in two parameters, an array of integers and an integer
+2) The function returns an array
+3) Create an empty array with 2 size to store the two indices
+4) Loop through the array with the variable "count"
+5) Loop through the array again with the variable "counter"
+6) Compare element at count with element at counter
+7) if any of the elements at the two variable summed together equals the integer argument, collect the index and save into the empty array that was declared

@@ -1,0 +1,13 @@
+UNDERSTANDING COGNITIVE BIASES
+This chapter delves into the mental shortcuts, or heuristics, that our brains employ to process information swiftly. While these heuristics can be efficient, they often lead to systematic errors known as cognitive biases. Chatfield emphasizes the importance of recognizing and understanding these biases to enhance our critical thinking skills
+
+*Key Heuristics and Associated Biases:*
+
+1. *Affect Heuristic*: This involves making decisions based on immediate emotional responses rather than objective analysis. For instance, a person might choose a treatment labeled as "70% effective" over one described as "30% failure rate," even though both convey the same information
+
+2. *Availability Heuristic*: This bias leads individuals to overestimate the importance of information that comes readily to mind. For example, after seeing news reports about lottery winners, one might overestimate the likelihood of winning the lottery themselves
+
+3. *Anchoring Heuristic*: This occurs when initial information serves as a reference point and influences subsequent judgments. For example, if you're told a watch is worth $1,000 but it's on sale for $500, you might perceive it as a good deal, even if the watch's actual value is much lower
+
+The chapter also discusses the *recency bias*, where recent events are given undue weight in decision-making, leading to skewed perceptions. By bringing these biases to light, he encourages readers to reflect on their own thinking patterns and develop strategies to mitigate flawed judgments
+
