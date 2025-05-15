@@ -9,8 +9,8 @@ System.out.print(count + " ");
 }
 */
 
-name = input("Enter a number")
-names = input("Enter another number")
-
-namess = name + names
-print(namess)
+//name = input("Enter a number")
+//names = input("Enter another number")
+//
+//namess = name + names
+//print(namess)

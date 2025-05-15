@@ -1,0 +1,13 @@
+			CONVERT POUNDS TO KILOGRAM	
+			STAGE ONE
+1) Write a program
+2) Convert pounds to kilogram
+3) Display the result
+				STAGE TWO
+
+1) Prompt the user to enter a number in pounds 
+2) Collect the number from the user
+3) Store the number as "number in pounds"
+4) Convert number in pounds to kilogram by multiplying by 0.454
+5) Store the number as kilogram
+6) Display kilogram

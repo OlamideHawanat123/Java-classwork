@@ -1,0 +1,21 @@
+			ACCELERATION
+			STAGE 1
+
+1.read the numbers
+2.calculate for acceleration
+3.display the result
+
+
+			STAGE 2
+1.prompt the user to input a number
+2.collect the number 
+3.store the number as "V1"
+4.prompt te user to input a number
+5.collect the number
+6.store the number as "V2"
+7.prompt the user to input a number
+8.collect the number
+9.store the number as "t"
+10.calculate using:a=(v1-v2)/t
+11.store the result as "acceleration"  
+12.display the acceleration to the user                  

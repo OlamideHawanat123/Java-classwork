@@ -1,40 +1,9 @@
-import java.util.ArrayList
-public class CheckoutSystem{
+import java.util.ArrayList;
+public class CheckoutSystem {
 
-public ArrayList<String> product(){
-ArrayList<String> products = new ArrayList<>();
-
+    public ArrayList<String> product() {
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        return new ArrayList<>();
+    }
 }

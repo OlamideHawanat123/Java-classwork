@@ -1,0 +1,6 @@
+PSEUDOCODE
+1. Merge the two arrays
+2. Rearrange the elements of the merged array in ascending order
+3. Get the length of array and store in a variable called "Length of array"
+4. Divide length of array by two and store in a variable called "Length division"
+5. Loop through the array and display the element of array at index length division

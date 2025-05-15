@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+public class ArrayListPractice{
+
+ArrayList<String> name = new ArrayList<>();
+ArrayList<Integer> number = new ArrayList<>();
+
+ArrayList<Double> fraction = new ArrayList<>();
+
+name.add("HiI");
+name.add("Yoo");
+
+number.add(40);
+number.add(56);
+
+fraction.add(5.9);
+fraction.add(4.3);
+
+System.out.println(name);
+System.out.println(number);
+System.out.print(fraction);
+
+
+
+
+
+}

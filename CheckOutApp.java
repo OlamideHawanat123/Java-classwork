@@ -12,11 +12,11 @@ public class CheckOutApp{
 
         String cashierName;
         String customerName;
-        double VAT_RATE = 17.50 / 100;
+        double vateRate = 17.50 / 100;
 
         print("Customer name: ");
         customerName = input.nextLine();
-        print("cashier name: ");
+        print("cashier's name: ");
         cashierName = input.nextLine();
 
         List <String> itemsList = new ArrayList<>();

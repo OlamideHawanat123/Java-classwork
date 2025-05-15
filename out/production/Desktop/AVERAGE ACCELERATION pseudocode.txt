@@ -1,0 +1,19 @@
+AVERAGE ACCELERATION
+PSEUDOCODE
+STAGE ONE
+1) Read a number in initial velocity
+2) Read a number in final velocity
+3) Read a number in time
+4) Calculate average acceleration by using the gotten variables
+
+STAGE TWO
+1) Prompt the user to enter a number in initial velocity
+2) Collect the number
+3) Store the number as initial velocity
+4) Prompt the user to enter a number in final velocity
+5) Collect the number
+6) Store the number as final velocity
+7) Prompt the user to enter time
+8) Collect the number
+9) Store number as time
+10) calculate average acceleration by (final velocity - initial velocity / time) 

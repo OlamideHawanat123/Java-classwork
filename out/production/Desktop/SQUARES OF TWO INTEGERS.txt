@@ -1,0 +1,24 @@
+SQUARES OF TWO INTEGERS
+STAGE ONE
+1) READ TWO NUMBERS
+2) PRINT THE SQUARE, SUM OF SQUARES AND DIFFERENCE OF THE SQUARES
+
+STAGE TWO
+1) Prompt the user to enter a number
+2) Collect the number
+3) Store the number as integer1
+4) Prompt the user to enter another number
+5) Collect the number
+6) Store the number as integer2
+7) Determine the square of integer1 by multiplying integer1 with integer1
+8) Store the result as Squaredinteger1
+9) Determine the square of integer2 by multiplying integer2 by integer2
+10) Store the result as squaredinteger2 
+11) Sum the square of integer
+12) Store the result as Sum of squares
+13) Determine the difference of integers by subtracting integer2 from integer1
+14) Store the result as difference of squares
+15) Display the squaredinteger1
+16) Display the squaredinteger2
+17) Display the sum of squares
+18) Display the difference of squares
